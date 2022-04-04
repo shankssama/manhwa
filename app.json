@@ -1,5 +1,5 @@
 {
-  "name": "MangaLoader",
+  "name": "Manga-Uploader",
   "description": "Telegram Bot to Upload Manga/Comic URLs to Telegram as PDF/ZIP or Folder.",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "manga",
     "downloader"
   ],
-  "success_url": "https://github.com/X-Gorn/MangaLoader",
-  "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/MangaLoader",
+  "success_url": "https://github.com/FalconLoss/Manga-Uploader",
+  "website": "hhttps://github.com/FalconLoss",
+  "repository": "https://github.com/FalconLoss/Manga-Uploader",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
