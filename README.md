@@ -14,6 +14,7 @@ Telegram RoBot to Upload manga/comic.
 * Send manga url from [supported resources](https://manga-py.com/manga-py/#resources-list), for url example [read this](#url-options-and-examples)
 * Select subdirs option
 * Wait a few minutes and the bot will send your manga
+* For more assistance, contact [Fâlçøñ](https://t.me/Falcon79)
 
 #### URL options and examples
 
