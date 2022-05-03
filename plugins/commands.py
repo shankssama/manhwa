@@ -4,14 +4,14 @@ from pyrogram.types.bots_and_keyboards import InlineKeyboardMarkup
 from translation import Translation
 
 
-@Client.on_message(filters.private & filters.command('start'))
+@Client.on_message(filters.private & filters.command('mstart'))
 def _start(bot, update):
     update.reply_text(
         Translation.START_TEXT.format(str(update.from_user.first_name)), reply_markup=InlineKeyboardMarkup(Translation.start_buttons)
     )
 
 
-@Client.on_message(filters.private & filters.command('help'))
+@Client.on_message(filters.private & filters.command('mhelp'))
 def _help(bot, update):
     update.reply_text(Translation.HELP_TEXT)
 
