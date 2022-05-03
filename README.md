@@ -35,3 +35,6 @@ for more help, [read this](https://github.com/manga-py/manga-py#downloading-mang
 
 #### LICENSE
 - GPLv3
+# Deploy to Heroku
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Nchuuya/manhwa"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku width= "220" Height= "40"/></a></p>
+
